@@ -1,5 +1,4 @@
-># CLONING Best buy WEBSITE
-#### &nbsp;&nbsp;&nbsp;By Siddesh Patil.
+
 #### &nbsp;&nbsp; An online shopping website for purchase of Electronics.
 ## Technologies Used:
 * HTML
